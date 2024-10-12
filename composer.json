@@ -2,6 +2,7 @@
     "name": "sevvex/sevvex.github.io",
     "description": "A simple PHP forum without a database",
     "type": "project",
+    "license": "propietary",
     "require": {
         "php": ">=7.4"
     },
